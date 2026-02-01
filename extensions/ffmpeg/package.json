@@ -67,7 +67,7 @@
     ]
   },
   "dependencies": {
-    "@raycast/api": "^1.79.0",
+    "@raycast/api": "^1.104.3",
     "@raycast/utils": "^1.9.1",
     "cachedir": "^2.4.0",
     "filesize": "^10.0.12",
