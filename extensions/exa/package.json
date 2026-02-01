@@ -59,7 +59,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.90.0",
+    "@raycast/api": "^1.104.3",
     "@raycast/utils": "^1.17.0",
     "exa-js": "^1.4.8"
   },
