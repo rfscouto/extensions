@@ -56,7 +56,7 @@
   "dependencies": {
     "@raycast/api": "^1.58.0",
     "@types/node-fetch": "^2.6.1",
-    "node-fetch": "^3.2.4",
+    "node-fetch": "^3.2.10",
     "run-applescript": "^6.0.0"
   },
   "preferences": [
