@@ -20,7 +20,7 @@
     "@raycast/api": "^1.88.3",
     "@raycast/utils": "^1.17.0",
     "dotenv": "^16.4.7",
-    "esbuild": "^0.24.2",
+    "esbuild": "^0.25.0",
     "fuel-agent-kit": "^0.9.0",
     "fuels": "^0.96.1",
     "node-fetch": "^3.3.2"
