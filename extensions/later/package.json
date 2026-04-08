@@ -99,7 +99,7 @@
     "@raycast/api": "^1.76.0",
     "@raycast/utils": "^1.16.0",
     "dayjs": "^1.11.11",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "run-applescript": "^7.0.0"
   },
   "devDependencies": {

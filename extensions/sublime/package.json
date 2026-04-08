@@ -63,7 +63,7 @@
         "@raycast/utils": "^1.16.5",
         "dayjs": "^1.11.13",
         "formdata-node": "^6.0.3",
-        "lodash": "^4.17.21",
+        "lodash": "^4.18.1",
         "mime": "^4.0.4",
         "node-fetch": "^3.3.2",
         "react": "^18.3.1",
