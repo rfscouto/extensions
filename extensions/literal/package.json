@@ -43,7 +43,7 @@
     "@raycast/utils": "^1.14.1",
     "cross-fetch": "^4.0.0",
     "graphql": "^16.8.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
