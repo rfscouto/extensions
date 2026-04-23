@@ -72,13 +72,13 @@
   "dependencies": {
     "@raycast/api": "^1.51.1",
     "@types/uuid": "^9.0.1",
-    "axios": "^1.8.4",
+    "axios": "^1.15.0",
     "bn.js": "^5.2.1",
     "debounce": "^1.2.1",
     "mixpanel": "^0.17.0",
     "starknet": "^5.10.2",
     "ts-interface-checker": "^1.0.2",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "1.0.5",
