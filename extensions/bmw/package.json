@@ -138,12 +138,12 @@
   "dependencies": {
     "@raycast/api": "^1.64.4",
     "@raycast/utils": "^1.9.1",
-    "axios": "^1.8.4",
+    "axios": "^1.15.0",
     "bmw-connected-drive": "^2.1.0",
     "javascript-time-ago": "^2.5.9",
     "moment": "^2.29.4",
     "node-fetch": "^3.3.2",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",

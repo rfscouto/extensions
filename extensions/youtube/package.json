@@ -139,14 +139,14 @@
   ],
   "dependencies": {
     "@google-cloud/local-auth": "^1.0.1",
-    "@googleapis/youtube": "^2.0.0",
+    "@googleapis/youtube": "^31.0.0",
     "@raycast/api": "^1.68.1",
     "@raycast/utils": "^1.12.5",
     "duration-iso-8601": "^1.1.0",
     "he": "^1.2.0",
     "javascript-time-ago": "^2.3.10",
     "node-fetch": "^3.0.0",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/he": "^1.1.2",
