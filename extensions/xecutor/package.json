@@ -28,7 +28,7 @@
     "@raycast/api": "^1.39.3",
     "lodash.xorby": "^4.7.0",
     "url-parse": "^1.5.10",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/lodash.xorby": "^4.7.7",
