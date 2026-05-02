@@ -203,7 +203,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.80.0",
-    "axios": "^1.8.4",
+    "axios": "^1.15.0",
     "cheerio": "^1.0.0",
     "node-fetch": "^3.3.2"
   },
